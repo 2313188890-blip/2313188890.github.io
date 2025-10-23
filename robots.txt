@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gongshuhao.github.io//sitemap.xml
